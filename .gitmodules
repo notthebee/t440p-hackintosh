@@ -1,0 +1,3 @@
+[submodule "CLOVER"]
+	path = CLOVER
+	url = ./CLOVER
