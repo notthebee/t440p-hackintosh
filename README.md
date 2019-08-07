@@ -1,3 +1,4 @@
+![T440p Hackintosh](screen.png)
 This repo is mostly based on https://github.com/ameeno/Lenovo-Thinkpad-T440P-Hackintosh with several changes:
 
 * Different version of VoodooPS2 Controller to support Alps trackpad (also supports the nub scrolling without any additional software)
@@ -13,5 +14,3 @@ TODO:
 * Docking station audio
 * Address reboots when trying to suspend on docking station
 
-
-Instructions coming soon!
