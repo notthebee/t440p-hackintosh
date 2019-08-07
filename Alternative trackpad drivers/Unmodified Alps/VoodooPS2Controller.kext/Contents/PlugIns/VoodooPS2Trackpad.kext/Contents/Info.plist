@@ -187,11 +187,11 @@
 			<key>TrackpadEmbedded</key>
 			<true/>
 			<key>TrackpadFourFingerGestures</key>
-			<false/>
+			<true/>
 			<key>TrackpadSecondaryClickCorners</key>
 			<true/>
 			<key>TrackpadThreeFingerDrag</key>
-			<false/>
+			<true/>
 			<key>VendorID</key>
 			<integer>1452</integer>
 		</dict>
