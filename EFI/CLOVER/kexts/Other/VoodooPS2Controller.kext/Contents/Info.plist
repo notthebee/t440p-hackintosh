@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17C205</string>
+	<string>18G84</string>
 	<key>CFBundleExecutable</key>
 	<string>VoodooPS2Controller</string>
 	<key>CFBundleGetInfoString</key>
@@ -29,17 +29,17 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9C40b</string>
+	<string>9F2000</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>17C76</string>
+	<string>17E189</string>
 	<key>DTSDKName</key>
 	<string>macosx10.13</string>
 	<key>DTXcode</key>
-	<string>0920</string>
+	<string>0941</string>
 	<key>DTXcodeBuild</key>
-	<string>9C40b</string>
+	<string>9F2000</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ACPI PS/2 Nub</key>
@@ -121,14 +121,22 @@
 						<key>WakeDelay</key>
 						<integer>0</integer>
 					</dict>
-					<key>ProBook-102</key>
-					<string>ProBook</string>
-					<key>ProBook-87</key>
-					<string>ProBook</string>
+				</dict>
+				<key>Lenovo</key>
+				<dict>
+					<key>Haswell-Ideapad</key>
+					<dict>
+						<key>WakeDelay</key>
+						<integer>0</integer>
+					</dict>
+					<key>U430</key>
+					<string>Haswell-Ideapad</string>
 				</dict>
 			</dict>
-			<key>RM,deliverNotifications</key>
-			<true/>
+			<key>RM,Build</key>
+			<string>Release-</string>
+			<key>RM,Version</key>
+			<string>VoodooPS2Controller 6.0.0</string>
 		</dict>
 	</dict>
 	<key>OSBundleCompatibleVersion</key>
