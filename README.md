@@ -1,3 +1,4 @@
+# Clover folder, kexts and fixes for Thinkpad T440p
 ![T440p Hackintosh](screen.png)
 This repo is mostly based on https://github.com/ameeno/Lenovo-Thinkpad-T440P-Hackintosh with several changes:
 
