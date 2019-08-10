@@ -3,13 +3,12 @@
 This repo is mostly based on https://github.com/ameeno/Lenovo-Thinkpad-T440P-Hackintosh with several changes:
 
 * Three different versions of VoodooPS2Controller.kext:
-  * Alps trackpad, Caps Lock and Escape swapped (default)
+  * Synaptics trackpad (default)
+  * Alps trackpad, Caps Lock and Escape swapped
   * Alps trackpad
-  * Synaptics trackpad
 * Special config.plist for USBInjectAll to support docking station USB ports
 
-#### If you have a Synaptics trackpad or don't want Escape and Caps Lock to be swapped
-Check out the "Alternative trackpad drivers" folder
+#### If you have an Alps trackpad, check out the "Alps drivers" folder
 
 TODO:
 * Docking station audio
