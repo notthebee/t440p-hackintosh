@@ -1,10 +1,9 @@
 # Clover folder, kexts and fixes for Thinkpad T440p
 
-_The repository has been archived, since I don't own the device anymore.
-For a more up-to-date version, check out these repositories:
+_The repository has been archived, since I don't own the device anymore._
+_For a more up-to-date version, check out these repositories:_
 https://github.com/Sniki/Lenovo-Thinkpad-T440P
 https://github.com/jloisel/t440p
-_
 
 
 ![T440p Hackintosh](screen.png)
